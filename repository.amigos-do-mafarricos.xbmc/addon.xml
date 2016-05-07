@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.amigos-do-mafarricos.xbmc" name="Amigos do Mafarricos repositorio" version="1.0.0" provider-name="Mafarricos">
+	<extension point="xbmc.addon.repository" name="Amigos do Mafarricos repositorio">
+		<info compressed="false">http://raw.github.com/Mafarricos/amigos-do-mafas-xbmc-addons/master/addons.xml</info>
+		<checksum>http://raw.github.com/Mafarricos/amigos-do-mafas-xbmc-addons/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/Mafarricos/amigos-do-mafas-xbmc-addons/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repositorio Amigos de Mafarricos</summary>
+		<description>Addons de Amigos do Mafarricos, contacto: MafaStudios@gmail.com</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
